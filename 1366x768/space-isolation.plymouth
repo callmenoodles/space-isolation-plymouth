@@ -6,5 +6,4 @@ ModuleName=script
 [script]
 ImageDir=/usr/share/plymouth/themes/space-isolation/images
 ScriptFile=/usr/share/plymouth/themes/space-isolation/space-isolation.script
-MonospaceFont=Funnel Sans
 ConsoleLogTextColor=0xFFFFFF
