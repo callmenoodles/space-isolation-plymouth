@@ -52,11 +52,6 @@ fun on_password(nil, bulletCount) {
     prompt.sprite = Sprite(prompt.image);
     prompt.sprite.SetZ(100);
 
-    #prompt.image = Image.Text("Enter your password to continue:", 1, 1, 1, 1, "Funnel Sans 32");
-    #prompt.sprite = Sprite(prompt.image);
-    #prompt.sprite.SetX(screen.half.w - prompt.image.GetWidth() / 2);
-    #prompt.sprite.SetY(screen.h - 4 * prompt.image.GetHeight());
-
     // Clear all bullets (user might hit backspace)
     bullets = null;
     for (i = 0; i < bulletCount; i++) {
@@ -74,11 +69,6 @@ fun on_display_question(prompt, entry) {
 
     if (entry == "")
         entry = "<answer>";
-
-    question.image = Image.Text(prompt, 1, 1, 1);
-    question.sprite = Sprite(question.image);
-    question.sprite.SetX(screen.half.w - question.image.GetWidth() / 2);
-    question.sprite.SetY(screen.h - 4 * question.image.GetHeight());
 
     answer.image = Image.Text(entry, 1, 1, 1);
     answer.sprite = Sprite(answer.image);
