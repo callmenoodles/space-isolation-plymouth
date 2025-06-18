@@ -23,8 +23,8 @@ A Plymouth theme based on the loading screens of the 2014 survival horror game A
   Where `delay` is the delay in seconds (e.g. 5).
 
 ## Known Issues
-### Theme Size
-The size of this theme can probably be optimized quite a bit. However, I was unable to get a preview running on my system, so I decided to just use the full snapshots of a screen recording I made of the game.
+### Theme Size & Loading Screen Video
+The size of this theme can probably be optimized quite a bit. However, I was unable to get a preview running on my system, so I decided to just use the full snapshots of a screen recording of the game. 
 
 ### Fonts & Custom Text
 AFAIK, fonts are not bundled with a Plymouth theme but must be installed on the host system already. I couldn't get fonts to work, so for now the quote you see is part of the background instead of editable.
@@ -52,4 +52,4 @@ Thanks to
 - The people at [Gentoo](https://www.gentoo.org/) for [this wiki page](https://wiki.gentoo.org/wiki/User:DerpDays/Plymouth/Theming) on Plymouth theming.
 - [@adi1090x](https://github.com/adi1090x) for [these Plymouth theme examples](https://github.com/adi1090x/plymouth-themes) 
 - [Creative Assembly](https://www.creative-assembly.com/) and [Sega](https://sega.com/) for the game
-- [The Walt Disney Company](https://thewaltdisneycompany.com/) for upholding Alien franchise (Is there a something Disney doesn't own lol)
+- [The Walt Disney Company](https://thewaltdisneycompany.com/) for supporting the Alien franchise (Is there anything Disney doesn't own lol)
