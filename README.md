@@ -1,4 +1,4 @@
-# Space Isolation (Plymouth Edition)
+# Space Isolation [Plymouth Edition]
 A Plymouth theme based on the loading screens of the 2014 survival horror game Alien: Isolation™.
 
 ![Preview](preview.gif)
