@@ -1,15 +1,8 @@
 # Space Isolation (Plymouth Edition)
 A Plymouth theme based on the loading screens of the 2014 survival horror game Alien: Isolation™.
-<<<<<<< Updated upstream
 
 ![Preview](1366x768/images/progress-5.png)
 
-=======
-<<<<<<< Updated upstream
-=======
-
-~[Preview](preview.gif)
->>>>>>> Stashed changes
 ## Installation
 ### Arch Linux
 1. Download your resolution from [releases](https://github.com/callmenoodles/space-isolation-plymouth/releases) or clone this repository and change its name to *space-isolation*.
@@ -27,7 +20,7 @@ A Plymouth theme based on the loading screens of the 2014 survival horror game A
   [Daemon]
   ShowDelay=<delay>
   ```
-  Where `delay` is the delay in seconds (e.g. 5).
+  Where `delay` is the delay in seconds (e.gs. 5).
 
 ## Known Issues
 ### Theme Size
@@ -63,7 +56,3 @@ Thanks to
 - [@adi1090x](https://github.com/adi1090x) for [these Plymouth theme examples](https://github.com/adi1090x/plymouth-themes)
 - [Creative Assembly](https://www.creative-assembly.com/) and [Sega](https://sega.com/) for the game
 - [The Walt Disney Company](https://thewaltdisneycompany.com/) for supporting the Alien franchise (Is there anything Disney doesn't own lol)
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
->>>>>>> Stashed changes
