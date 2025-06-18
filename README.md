@@ -5,7 +5,7 @@ A Plymouth theme based on the loading screens of the 2014 survival horror game A
 
 ## Installation
 ### Arch Linux
-1. Download your resolution from [releases](https://github.com/callmenoodles/space-isolation-plymouth/releases) or clone this repository and change its name to *space-isolation*.
+1. Download your resolution from [releases](https://github.com/callmenoodles/space-isolation-plymouth/releases), [Pling](https://www.pling.com/member/831735/products/), or clone this repository and change its name to *space-isolation*.
 2. Make sure you have plymouth installed: https://wiki.archlinux.org/title/Plymouth
 3. Copy the theme folder to `/usr/share/plymouth/themes`
   ```
