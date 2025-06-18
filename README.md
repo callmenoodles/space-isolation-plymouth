@@ -1,7 +1,7 @@
 # Space Isolation (Plymouth Edition)
 A Plymouth theme based on the loading screens of the 2014 survival horror game Alien: Isolation™.
 
-![](preview.gif)
+![Preview](preview.gif)
 
 ## Installation
 ### Arch Linux
