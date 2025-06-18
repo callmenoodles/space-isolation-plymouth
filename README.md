@@ -52,6 +52,7 @@ $ ls /boot`
 
 ## Credits
 Thanks to
+- [@Synthetic451](https://www.reddit.com/user/Synthetic451/) for the suggestion
 - The people at [Gentoo](https://www.gentoo.org/) for [this wiki page](https://wiki.gentoo.org/wiki/User:DerpDays/Plymouth/Theming) on Plymouth theming.
 - [@adi1090x](https://github.com/adi1090x) for [these Plymouth theme examples](https://github.com/adi1090x/plymouth-themes)
 - [Creative Assembly](https://www.creative-assembly.com/) and [Sega](https://sega.com/) for the game
